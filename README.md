@@ -17,7 +17,7 @@
 </p> 
 
 - 🏢 I'm a full stack web developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, python, and php, or anything related to web development.
 
 
